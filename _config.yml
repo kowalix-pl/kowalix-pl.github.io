@@ -1,11 +1,11 @@
 # Site settings
-author: kowalix007
-title: 
+author: Lukasz Kowalik
+title:  A journey of a thousand codes begins with a single click!” 
 header-img: img/home-bg.png
 email: kowalix007@gmail.com
-copyright_name: kowalix007
+copyright_name: Lukasz Kowalik
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Online marketer's journey to becoming a software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kowalix-pl
