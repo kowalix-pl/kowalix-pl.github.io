@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "*A journey of a thousand codes begins with a single click.*"
-date:       2019-12-15 20:30:21 +0000
+date:       2019-12-15 15:30:23 -0500
 permalink:  a_journey_of_a_thousand_codes_begins_with_a_single_click
 ---
 
 
 
-* Since I can remember I have always been interested in learning new and exciting things. I wanted to create new items from scratch or reverse-engineer the old ones. Hence most of my toys ended up somewhere in the corner of my room disassembled and left waiting to become parts for my new “project/adventure”.
+Since I can remember I have always been interested in learning new and exciting things. I wanted to create new items from scratch or reverse-engineer the old ones. Hence most of my toys ended up somewhere in the corner of my room disassembled and left waiting to become parts for my new “project/adventure”.
  
  Fast forward to my adult life, I chose online marketing as a career and worked in that field for a number of years, but I begun to feel that something was missing and that there is something better  I could do with my life, as I did not feel fulfilled and happy in my work environment and the job stopped giving me the same satisfaction as it did when I first started. Somewhere in my heart of hearts, I knew that I needed a career change, and I needed it fast. So I made a decision to take massive action and change my state of affairs by looking at possible career move options.
  
