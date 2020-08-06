@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "“What you seek is seeking you.” Rumi"
-date:       2020-08-06 22:28:13 +0000
+date:       2020-08-06 18:28:14 -0400
 permalink:  what_you_seek_is_seeking_you_rumi
 ---
 
